@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Perhitungan Absen Mahasiswa</string>
+    <string name="add_task_activity_name">Input Data</string>
+
+    <string name="edit_task_description">Masukkan Nama Mahasiswa&#8230;</string>
+    <string name="priority_string">Keterangan</string>
+
+    <string name="high_priority">Alpha</string>
+    <string name="med_priority">Ijin</string>
+    <string name="low_priority">Masuk</string>
+
+    <string name="add_button">Tambah Data</string>
+    <string name="update_button">Update Data</string>
+</resources>
